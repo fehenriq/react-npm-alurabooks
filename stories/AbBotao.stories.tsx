@@ -1,6 +1,6 @@
 import React from "react";
-import { AbBotao } from '../src'
-import { ComponentMeta, ComponentStory } from '@storybook/react'
+import { AbBotao } from '../src';
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 
 export default {
   title: 'components/AbBotao',
