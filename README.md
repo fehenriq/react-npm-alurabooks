@@ -4,7 +4,7 @@ Esse projeto é um pacote construído do 0 e <a href="https://www.npmjs.com/pack
 
 ## 🔨 Funcionalidades do projeto
 
-O projeto possui 5 componentes que foram desenvolvidos com base no design da <a href="https://www.figma.com/file/dkGogcES2G1lwH8hwrF3E6/React%3A-Alura-Books?node-id=0%3A1">AluraBooks no Figma</a>  
+O projeto possui 6 componentes que foram desenvolvidos com base no design da <a href="https://www.figma.com/file/dkGogcES2G1lwH8hwrF3E6/React%3A-Alura-Books?node-id=0%3A1">AluraBooks no Figma</a>  
 
 >### AbBotao
 Possui texto personalizável, tipo[primario, secundario] e onClick
@@ -21,6 +21,10 @@ Um label com titúlo personalizável, value(placeholder), tipo[texto, email, pas
 >### AbGrupoOpcoes
 3 cards com titulo, corpo e rodapé onde tem onChange  
 É possível determinar o padrão e muda o estilo de acordo com o selecionado
+
+>### AbInputQuantidade
+Possui o título quantidade, 2 botões[+ e -] e um contador  
+O usuário pode adicionar ou remover itens e o contador é atualizado
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
