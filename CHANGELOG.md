@@ -1,3 +1,16 @@
+# v0.2.3 (Thu Oct 06 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of https://github.com/fehenriq/react-npm-alurabooks ([@fehenriq](https://github.com/fehenriq))
+- arrumado erro que componetes não eram exportados ([@fehenriq](https://github.com/fehenriq))
+
+#### Authors: 1
+
+- Felipe Rodrigues ([@fehenriq](https://github.com/fehenriq))
+
+---
+
 # v0.2.2 (Wed Oct 05 2022)
 
 #### ⚠️ Pushed to `master`
