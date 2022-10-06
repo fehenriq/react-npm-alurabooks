@@ -1,5 +1,5 @@
 import React from 'react';
-import { AbCard } from '../src/components/AbCard';
+import { AbCard } from '../src';
 import { ComponentMeta } from '@storybook/react';
 
 export default {

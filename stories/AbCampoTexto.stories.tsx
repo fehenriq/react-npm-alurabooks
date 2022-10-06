@@ -1,6 +1,6 @@
 import React from 'react';
 import { ComponentMeta, ComponentStory } from '@storybook/react';
-import { AbCampoTexto, AbCampoTextoProps } from '../src/components/AbCampoTexto'
+import { AbCampoTexto, AbCampoTextoProps } from '../src'
 
 export default {
   title: 'components/AbCampoTexto',

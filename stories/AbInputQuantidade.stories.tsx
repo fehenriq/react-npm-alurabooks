@@ -1,6 +1,6 @@
 import React from 'react';
 import { ComponentMeta, ComponentStory } from '@storybook/react';
-import { AbInputQuantidade, AbInputQuantidadeProps } from '../src/components/AbInputQuantidade'
+import { AbInputQuantidade, AbInputQuantidadeProps } from '../src'
 
 export default {
   title: 'components/AbInputQuantidade',

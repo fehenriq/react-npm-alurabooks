@@ -30,9 +30,12 @@ O usuário pode adicionar ou remover itens e o contador é atualizado
 
 - `Typescript`
 - `React`
+- `React Hooks`
 - `styled-components`
+- `TSDX`
 - `Storybook`
 - `NPM`
+- `GitHub Actions`
 
 ## 💻 Para usar o pacote em seus projetos:
 
